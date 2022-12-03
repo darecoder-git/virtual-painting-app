@@ -1,0 +1,2 @@
+# virtual-painting-app
+I built a virtual painting model using a combination of OpenCV, Mediapipe, and a custom machine learning model that I trained on a dataset of hand gestures. I used the hand tracking capabilities of Mediapipe to track the position of the user's hand in front of the camera, and I used the machine learning model to recognize different gestures and control the brush size, color, and other aspects of the painting. I also implemented a user interface that allows the user to interact with the model and create their own virtual paintings.
